@@ -2635,7 +2635,11 @@ input, select, textarea {
 	section.special, article.special {
 		text-align: center;
 	}
-
+	
+	section.acces{
+		display:flex;
+		justify-content: space-around;
+	}
 	header.major {
 		margin-bottom: 3em;
 	}
