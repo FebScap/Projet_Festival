@@ -3605,6 +3605,8 @@ input, select, textarea {
 			}
 
 				#main > .main > .image.main:first-child img {
+					height: 22em;
+					object-fit: cover;
 					border-top-right-radius: 0.25em;
 					border-top-left-radius: 0.25em;
 					border-bottom-right-radius: 0;
